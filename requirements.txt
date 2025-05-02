@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+fastapi
+uvicorn
+tensorflow
+numpy
